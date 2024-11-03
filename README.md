@@ -19,3 +19,10 @@ sudo apt update
 sudo apt install ubuntu-desktop
 sudo reboot
 ```
+
+you also may have to
+
+```bash
+sudo apt update
+sudo apt install lxde
+```
